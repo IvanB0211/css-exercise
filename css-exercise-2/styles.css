@@ -1,0 +1,20 @@
+.neparni {
+    background-color: rgb(238, 31, 110);
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+
+}
+
+#drugi {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.drugaciji {
+    font-size: 24px;
+}
+
+#cetvrti {
+    background-color: hsl(113, 66%, 69%);
+    font-size: 24px;
+    font-weight: 700;
+}
