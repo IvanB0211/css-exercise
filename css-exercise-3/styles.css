@@ -1,0 +1,15 @@
+.prvi {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.drugi {
+    background-color: rgb(156, 156, 5);
+}
+
+.prvi,
+.drugi {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
